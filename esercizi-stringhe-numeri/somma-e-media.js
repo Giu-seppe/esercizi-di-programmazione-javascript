@@ -8,4 +8,3 @@
 
   http://www.imparareaprogrammare.it
 */
-let ciccio= "ciccio"
