@@ -17,3 +17,15 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+let gatti = 44
+let numGatti = 6
+let file
+let gattiMancanti
+
+file = Math.ceil(gatti / numGatti);
+gattiMancanti = numGatti -(gatti % numGatti)
+
+
+console.log("numero di file: " + file + "\ngatti mancanti: " + gattiMancanti)
