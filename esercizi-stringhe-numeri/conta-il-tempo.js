@@ -12,3 +12,20 @@
 
   http://www.imparareaprogrammare.it
 */
+
+/*
+let seconds = 12560;
+let minutes = Math.floor(seconds /60);
+let hours = Math.floor(seconds /3600);
+
+
+console.log(seconds+ " corrispondono a "+ minutes+ " minuti e "+  hours+ " ore");
+*/
+
+
+let seconds
+let minutes
+let hours
+let resto
+
+hours = ( )
